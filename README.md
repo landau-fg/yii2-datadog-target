@@ -25,3 +25,8 @@ Add new log target in application configuration:
 ### TODO
 
 - Send events to Datadog 
+
+### LINKS
+
+- [Datadog](https://www.datadoghq.com/)
+- [Yii2 log documentation](http://www.yiiframework.com/doc-2.0/guide-runtime-logging.html)
