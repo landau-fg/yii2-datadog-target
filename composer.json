@@ -1,0 +1,20 @@
+{
+  "name": "lfg/yii2-datadog-target",
+  "description": "Datadog Log Target",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Zhukov Roman"
+    }
+  ],
+  "require": {
+    "datadog/php-datadogstatsd": "^0.4.0",
+    "yiisoft/yii2": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "lfg\\": "src/"
+    }
+  }
+}
